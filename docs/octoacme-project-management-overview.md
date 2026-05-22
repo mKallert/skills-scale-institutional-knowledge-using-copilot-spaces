@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: advocates user experience, produces wireframes and prototypes.
+- Data Analyst: defines metrics, builds dashboards, and surfaces data-driven insights.
+- Customer Success: represents customer feedback and supports adoption and onboarding.
+- System Architect: guides architecture decisions, reviews technical proposals, manages integration risks.
+- Release Manager: coordinates deployment logistics, enforces release readiness, and manages stakeholder communication.
+
+> See [Roles and Personas](./octoacme-roles-and-personas.md) for full role descriptions and the [RACI Matrix](./octoacme-raci-matrix.md) for a responsibility overview by lifecycle stage.
 
 ## Key Artifacts
 - Project Charter / One-pager

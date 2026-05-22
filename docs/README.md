@@ -12,7 +12,8 @@ Quality and release readiness are built into the workflow: unit tests, integrati
 
 ### 0) Foundation
 - [Project Management Overview](./octoacme-project-management-overview.md) — high-level principles, lifecycle, artifacts, and communication cadence.
-- [Roles and Personas](./octoacme-roles-and-personas.md) — responsibilities and collaboration model across Project Managers, Product Managers, Developers, QA/testing, and stakeholders.
+- [Roles and Personas](./octoacme-roles-and-personas.md) — responsibilities and collaboration model across Project Managers, Product Managers, Developers, QA/Testing, UX Designers, Data Analysts, Customer Success, System Architects, Release Managers, and Stakeholders.
+- [RACI Matrix](./octoacme-raci-matrix.md) — responsibility assignment matrix mapping all roles to key activities across the project lifecycle.
 
 ### 1) Initiation
 - [Project Initiation Guide](./octoacme-project-initiation.md) — one-pager inputs, decision gate, and minimum deliverables to approve work.
